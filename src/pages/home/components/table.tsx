@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Table() {
+export default function CardSensor() {
   return (
     <div>
       <div className="table" style={{ marginTop: 170, marginLeft: "10%" }}>

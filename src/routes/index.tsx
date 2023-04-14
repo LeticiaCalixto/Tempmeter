@@ -6,7 +6,7 @@ import Home from '../pages/home/home';
 export default function Routers() {
     return (
         <Routes>
-            <Route exact path="/" element={<Home />} />
+            <Route path="/" element={<Home />} />
         </Routes>
     )
 }

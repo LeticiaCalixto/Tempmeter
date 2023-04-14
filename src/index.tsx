@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './i18n';
+// import './i18n';
 import { Provider } from 'react-redux';
-import { configureStore } from 'redux/store';
+import { configureStore } from './redux/store';
 import reportWebVitals from './reportWebVitals';
 import ContextWrapper from './ContextWrapper';
 
